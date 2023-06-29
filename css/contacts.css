@@ -1,11 +1,6 @@
 @import url("reset.css");
 @import url("style.css");
 
-body {
-	font-family: "Montserrat", sans-serif;
-	font-size: 14px;
-}
-
 /* Contacts */
 .contacts {
 	background-color: var(--page-bg);
