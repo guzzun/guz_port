@@ -414,7 +414,7 @@ html, body {
 }
 
 .project__img {
-    opacity: .7;
+    opacity: .9;
     transition: opacity .2s linear;
 }
 
