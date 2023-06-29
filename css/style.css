@@ -1,4 +1,6 @@
 @import "reset.css";
+@import "skills.css";
+@import "contacts.css";
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap');
 
 :root {
@@ -427,8 +429,9 @@ html, body {
 }
 
 .project__img {
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
 }
+
 
 .project__title {
     padding: 15px 20px 25px;

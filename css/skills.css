@@ -1,7 +1,3 @@
-@import url("reset.css");
-@import url("style.css");
-
-
 .grid {
   display: grid;
   gap: 1.25rem;
@@ -112,7 +108,7 @@
 @media screen and (min-width: 992px){
 
 	.skills__container {
-		grid-template-columns: repeat(2, 500px);
+		grid-template-columns: repeat(2, 485px);
 		column-gap: 3rem;
 	} 
 }
