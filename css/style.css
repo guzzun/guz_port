@@ -442,6 +442,14 @@ html, body {
     color: var(--project-card-text);
 }
 
+.more-git {
+    margin-top: 60px;
+    gap: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
 /* Projects Details */
 .project-details {
     margin: 0 auto;
@@ -470,11 +478,12 @@ html, body {
     margin-bottom: 30px;
     font-weight: 700;
     font-size: 24px;
-    line-height: 1.3;
+    line-height: 1.4;
+    text-align: center;
+    max-width: 80%;
 }
 
 /* Content */
-
 .content-list {
     margin: 0 auto;
     max-width: 570px;
